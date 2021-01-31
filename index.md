@@ -1,5 +1,6 @@
 ---
-Title: Working Title
+Title:Nick's Website
+Homepage
 ---
 
 This is content provided by Prof.Bradley which can be used in implemented a TimeSeriesDecomposition analysis.
