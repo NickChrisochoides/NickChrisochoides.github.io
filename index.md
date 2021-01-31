@@ -9,4 +9,5 @@ This is content provided by Prof.Bradley which can be used in implemented a Time
 
 - [DatetimeIndex](/testfile/index.md)
 
+This is also a poor place to link a repository
 - [Sample Repository](https://github.com/NickChrisochoides/sample)
