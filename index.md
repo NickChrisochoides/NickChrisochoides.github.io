@@ -1,5 +1,5 @@
 ---
-title:Nick's Website
+title: Nick's Website
 description: Homepage
 ---
 
