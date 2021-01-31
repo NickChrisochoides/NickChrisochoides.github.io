@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: New Title
+Description: the title and description can be adjusted
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
