@@ -3,7 +3,7 @@ title: Nick's Website
 description: Homepage
 ---
 
-![My Picture](/pics/class pic)
+![My Picture](/pics/class_pic.jpg)
 
 This is content provided by Prof.Bradley which can be used in implemented a TimeSeriesDecomposition analysis.
 
